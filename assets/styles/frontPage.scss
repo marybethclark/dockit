@@ -46,10 +46,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-// End OF RESETTTTTTTT
+// End OF RESET
 $grey: #f6f6f6;
 $green: #a2b9ae;
-@media (max-width: 400px) {
+// @media (max-width: 400px) {
 body{
   font-family: 'Raleway', sans-serif;
 }
@@ -197,7 +197,7 @@ a{
   padding-top: 40px;
 
 }
-}
+// }
 // @media (min-width: 401px){
 // 	.phoneWarning{
 // 		display: block;
@@ -217,7 +217,7 @@ a{
 //
 //
 // 	}
-// 	.container{
-// 		display:none;
-// 	}
+	// .container{
+	// 	display:none;
+	// }
 // }
